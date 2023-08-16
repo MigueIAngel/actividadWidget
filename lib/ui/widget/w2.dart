@@ -9,6 +9,7 @@ class W2 extends StatelessWidget {
       key: const Key('W2'),
       width: 200,
       height: 200,
+
       color: Colors.blueGrey, // should be grey when the decimal is bellow 0.4
     );
   }
